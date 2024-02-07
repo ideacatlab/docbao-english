@@ -1,0 +1,4 @@
+- [ ] Write the library code to push articles to PostgreSQL.
+- [ ] Add additional parameters to configure PostgreSQL in the environment file.
+- [ ] Add additional parameters to configure PostgREST in the docbao_lib.
+- [ ] Add additional code to push articles to PostgreSQL at the end of the scanning cycle.
